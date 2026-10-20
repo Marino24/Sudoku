@@ -34,7 +34,6 @@
 *.suo
 *.tlog
 *.log
-*.txt
 Debug/
 *.sdf
 *.opensdf
